@@ -1,0 +1,60 @@
+.inline-block{
+    display: inline-block;
+    vertical-align: top;
+}
+.navigation{
+    width: 100%;
+    padding:1%;
+    background-color: rgb(69, 59, 95);
+}
+.logo{
+    padding: 1%;
+    text-align: center;
+    margin: 0 auto;
+    height: 200px;
+    border-radius: 10%;
+}
+.header{
+    width: 100%;
+    margin-left: 170px;
+    justify-content: center;
+    display:inline-block;
+    text-indent: 60px;
+    background-color: rgb(69, 59, 95);
+    color: white;
+}
+.headshot{
+    height: 250px;
+    padding: 1%;
+    text-align: center;
+    top: 65px;
+    left: 610px;
+    position: absolute;
+    border-radius: 10%;
+}
+.footer{
+    display:inline-block;
+    vertical-align: top;
+    background-color: #373738;
+    width: 100%;
+    padding: 3%;
+    color:azure;
+    text-indent: 50px;
+    margin-bottom: 5px;
+}
+p.about{
+    padding-top: 15%;
+    margin-right: 50px;
+    margin-left: 50px;
+    font-size: larger;
+    padding-bottom: 8%;
+}
+.buttonR{
+    background-color: rgb(231, 215, 231);
+    padding: 12px 28px;
+    text-decoration: none;
+    border: none;
+    margin-left: 650px;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    border-radius: 10%;
+}
